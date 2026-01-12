@@ -1,3 +1,5 @@
 # Governance
-
-Materials related to governance models, voting, DAO tooling, and proposals.
+Governance model:  
+- 1 GST = 1 vote (with delegation).  
+- Token holders can delegate their voting power to trusted representatives.  
+- Governance contracts manage proposals, voting, and execution.
