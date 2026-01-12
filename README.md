@@ -1,20 +1,19 @@
 # GoldStandardToken
 
-Repository for the Gold Standard Token project. This repo contains the whitepaper, litepaper, tokenomics, governance and branding resources, plus a website scaffold.
+This repository holds the documentation, governance, and brand resources for the Gold Standard Token (GST) project.
 
-Top-level folders:
-- whitepaper/
-- litepaper/
-- tokenomics/
-- constitution/
-- governance/
-- brand/
-- website/
+Folders and primary documents:
+- whitepaper/ — whitepaper.md
+- litepaper/ — litepaper.md
+- tokenomics/ — tokenomics.md
+- constitution/ — dao-constitution.md
+- governance/ — proposal-template.md, governance-process.md
+- brand/ — brand-identity.md, logo-guidelines.md
+- website/ — landing-copy.md, faq.md, roadmap.md, press-kit.md
 
-Getting started:
-1. Read the whitepaper and tokenomics documents in their folders.
-2. Add detailed content (drafts, figures, legal notes) into each folder.
-3. For the website, open website/index.html and customize the copy and styles.
+How to contribute:
+1. Read the CONTRIBUTING guide in .github.
+2. Open issues for ideas and discuss changes in the governance area.
+3. Submit pull requests for content updates or improvements.
 
-Contributions:
-Please follow the CONTRIBUTING guidelines in .github/CONTRIBUTING.md.
+License: MIT. See LICENSE for details.
